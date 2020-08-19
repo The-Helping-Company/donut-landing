@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/app-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "Donut: Coloring Book for Kids"             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 
+app_description                           :
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -112,3 +112,15 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+  title: "Donut: Coloring Book for Kids"
+  description: Donut is a place for your child to express themselves and explore their imagination with drawing and coloring. Absolutely no ads.
+  url: getdonut.app
+  logo: assets/app-icon.png
+  social:
+      name: The Helping Company
+      links:
+            - https://instagram.com/thehelpingcompany
