@@ -81,7 +81,7 @@ topbar_color                              : "#ffffff"
 topbar_transparency                       : 0.0
 topbar_title_color                        : "#191919"
 
-cover_image                               : /assets/screenshot/donut-screen.jpg       # Replace with alternative image path or image URL.
+cover_image                               : assets/screenshot/donut-screen.jpg       # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0.0
 
