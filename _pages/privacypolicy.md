@@ -185,7 +185,7 @@ This information and data are primarily used for our own purposes in order to:
 - Improve the features and usability of our Platform
 - Let us analyze data to see how our Platform is performing
 
-## Sharing Information
+### Sharing Information
 We will not share personal information with other individuals or companies except in limited situations, including the following:
 
 - When other companies perform services for us, like customer support, email services, data management services, help desk providers, law firms, payment processors, accountants and shopping cart providers; however, these companies are prohibited from using a child’s personal information for purposes other than those requested by us or required by law.
