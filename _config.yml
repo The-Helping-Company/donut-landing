@@ -113,13 +113,20 @@ collections:
 # Markdown rendering
 markdown: kramdown
 
-plugins: jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
 
-  title: "Donut: Coloring Book for Kids"
-  description: Donut is a place for your child to express themselves and explore their imagination with drawing and coloring. Absolutely no ads.
-  url: getdonut.app
-  logo: assets/app-icon.png
-  social:
-      name: The Helping Company
-      links:
-            - https://instagram.com/thehelpingcompany
+title: "Donut: Coloring Book for Kids"
+description: Donut is a place for your child to express themselves and explore their imagination with drawing and coloring. Absolutely no ads.
+
+url: getdonut.app
+
+social:
+  name: The Helping Company
+  links:
+    - https://instagram.com/thehelpingcompany
+
+  og_title: "Donut: Coloring Book for Kids"
+  og_description: Donut is a place for your child to express themselves and explore their imagination with drawing and coloring. Absolutely no ads.
+  og_image: assets/app-icon.png
+  og_type: website
