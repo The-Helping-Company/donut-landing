@@ -258,24 +258,35 @@ nav > ul li a:active {
 }
 
 .appIconShadow {
-			display: none;
+	display: flex;
+	filter: $drop-shadow;
 }
 
 
 .appIconLarge {
-			display: none;
+	width: 120px;
+	height: 120px;
+	-webkit-clip-path: url(#shape120);
+	clip-path: url(#shape120);
 }
 
 .appNamePriceContainer {
-		display: none;
+	display: flex;
+	flex: 0 1 auto;
+	flex-direction: column;
+	align-items: start;
+	justify-content: center;
+	margin-left: 30px;
 }
 
 .appName {
-		display: none;
+	color: $app-title-color;
 }
 
 .appPrice {
-		display: none;
+	color: $app-price-color;
+	font-weight: normal;
+	margin-top: 13px;
 }
 
 @media only screen and (max-width: 768px) {
