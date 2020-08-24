@@ -248,12 +248,14 @@ nav > ul li a:active {
 	align-content: flex-start;
 }
 
+@media only screen and (max-width: 992px) {
 
 	.appInfo {
 		padding-top: 50px;
 		justify-content: center;
 	}
 
+}
 
 .appIconShadow {
 	display: flex;
@@ -287,36 +289,6 @@ nav > ul li a:active {
 	margin-top: 13px;
 }
 
-@media only screen and (max-width: 992px) {
-
-	.appInfo {
-		padding-top: 50px;
-		justify-content: center;
-	}
-
-}
-
-.appIconShadow {
-		display: none;
-}
-
-
-.appIconLarge {
-		display: none;
-}
-
-.appNamePriceContainer {
-		display: none;
-}
-
-.appName {
-		display: none;
-}
-
-.appPrice {
-		display: none;
-}
-
 @media only screen and (max-width: 768px) {
 
 	.appNamePriceContainer {
@@ -328,10 +300,6 @@ nav > ul li a:active {
 	}
 
 	.appPrice {
-		display: none;
-	}
-
-	.appIconLarge {
 		display: none;
 	}
 
