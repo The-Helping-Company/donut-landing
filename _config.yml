@@ -128,6 +128,6 @@ social:
 
   og_title: "Donut: Coloring Book for Kids"
   og_description: Donut is a place for your child to express themselves and explore their imagination with drawing and coloring. Absolutely no ads.
-  og_url: getdonut.app
-  og_image: assets/app-icon.png
+  og_url: "https://getdonut.app/"
+  og_image: "https://getdonut.app/assets/app-icon.png"
   og_type: website
