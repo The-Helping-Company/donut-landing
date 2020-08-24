@@ -136,11 +136,10 @@ header {
 
 	.divider {
 		position: relative;
-		min-width: 1px;
-		max-width: 1px;
-		background-color:rgba(127, 127, 127, 0.2);
-		display: inline-block;
-		margin-left: 15px;
+		min-width: 0px;
+		max-width: 0px;
+		display: none;
+		margin-left: 0px;
 	}
 
 }
@@ -263,6 +262,7 @@ nav > ul li a:active {
 	filter: $drop-shadow;
 }
 
+
 .appIconLarge {
 	width: 120px;
 	height: 120px;
@@ -292,42 +292,31 @@ nav > ul li a:active {
 @media only screen and (max-width: 768px) {
 
 	.appNamePriceContainer {
-		width: 100%;
-		margin-left: 0px;
-		align-items: center;
-		justify-content: center;
+		display: none;
 	}
 
 	.appName {
-		margin-top: 30px;
-		text-align: center;
+		display: none;
 	}
 
 	.appPrice {
-		margin-top: 13px;
-		text-align: center;
+		display: none;
 	}
 
 }
 
 .appDescriptionContainer {
-	font-size: 2.5rem;
-	font-weight: normal;
-	width: 100%;
-	align-items: flex-start;
-	margin-top: 45px;
-	flex: 0 1 auto;
-	line-height: 1.5;
+		display: none;
 }
 
 .appDescription {
-	color: $app-description-color;
+		display: none;
 }
 
 @media only screen and (max-width: 992px) {
 
 	.appDescription {
-		text-align: center;
+		display: none;
 	}
 
 }
