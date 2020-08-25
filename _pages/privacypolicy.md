@@ -6,9 +6,12 @@ include_in_header: false
 
 
 **Last updated**  
-August 19 2020
+August 25, 2020
 
 # Privacy Policy
+
+Contact Information:
+<a href="mailto:donut@thehelpingcompany.com">Donut@TheHelpingCompany.com</a>
 
 This privacy policy applies to the information that we collect from you when you use our website https://getdonut.com, and our mobile applications named collectively and herein after called “Platform”.
 
