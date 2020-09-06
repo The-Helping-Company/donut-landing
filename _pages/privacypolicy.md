@@ -27,7 +27,7 @@ Our privacy policy tells you what personal data and non-personal data we may col
 ## Your rights
 If you want to exercise any of your rights included in this privacy policy, contact us by using the information at the top of this privacy policy.
 
-###Your Rights Under the GDPR
+### Your Rights Under the GDPR
 When using our Platform and submitting PD to us, you may have certain rights under the GDPR if you reside or are in any of the countries of the European Union. Depending on the legal basis for processing your PD you may have some or all of the following rights:
 
 - The Right to Be Informed – You have the right to be informed about the PD that we collect from you and how we process them.
