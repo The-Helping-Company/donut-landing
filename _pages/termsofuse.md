@@ -17,7 +17,7 @@ By accessing or using the Donut applications, website, services, software, and/o
 
 By registering for the Donut Service you affirm that you are (i) 18 years of age or the applicable age of majority or older in your province, territory, or country, or (ii) an emancipated minor. You also affirm that you are fully able and competent to enter into these Terms and to abide by and comply with them.
 
-Your use of the Donut Service is subject to all applicable technical and non- technical specifications, guidelines and policies which we may provide from time to time including but not limited to the Privacy Policy located at www.getdonut.app/privacy (hereinafter collectively referred to as "the Policies") you agree and undertake to comply with the Policies.
+Your use of the Donut Service is subject to all applicable technical and non- technical specifications, guidelines and policies which we may provide from time to time including but not limited to the Privacy Policy located at [www.getdonut.app/privacypolicy](https://getdonut.app/privacypolicy) (hereinafter collectively referred to as "the Policies") you agree and undertake to comply with the Policies.
 
 <br>
 
